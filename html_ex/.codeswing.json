@@ -1,0 +1,6 @@
+{
+  "type": "html",
+  "files": {
+    "index.html": "./main_tag.html"
+  }
+}
